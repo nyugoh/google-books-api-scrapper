@@ -31,7 +31,7 @@
     "mysql2": "^1.6.4",
     "node-env-run": "^3.0.2",
     "reflect-metadata": "^0.1.12",
-    "sequelize": "^4.41.2",
+    "sequelize": "^5.15.1",
     "sequelize-typescript": "0.6.6",
     "typescript": "3.5.3",
     "universal-dotenv": "^1.9.1"
